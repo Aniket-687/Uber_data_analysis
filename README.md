@@ -27,7 +27,19 @@ Columns:
 
 3. Visualize ride category distribution
 
-4. Determine maximum ride distance trends
+4. Determine maximum ride distance trends.
+
+## Tools & Technologies Used
+
+**Python**: Data manipulation and analysis
+
+**Pandas**: Data cleaning and transformation
+
+**Matplotlib & Seaborn**: Data visualization
+
+**NumPy**: Data handling
+
+**Jupyter Notebook**: Interactive coding environment
 
 ## Insights & Findings
 1. Most of the rides are booked for business purpose.
